@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+YNIkiqZ4fWmBTqy8WeE9tyAad16DKEHvYVXSmxqxvDTqZU/JsG4FLyxvKFgV4Go92eQ7WTSuOrDjZQjLulPEA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\96086\\Desktop\\#7DaysOfCode\\Tamagotchi\\Tamagotchi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\96086\\.nuget\\packages\\restsharp\\108.0.1\\restsharp.108.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
