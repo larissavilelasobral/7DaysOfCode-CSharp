@@ -4,7 +4,7 @@ namespace BichoVirtual
   {
     public List<Abilities>? abilities { get; set; }
 
-    public string? name { get; set; }
+    public string name { get; set; }
     public double weight { get; set; }
     public double height { get; set; }
   }

@@ -45,22 +45,29 @@ Neste dia, você irá parsear a resposta obtida no primeiro dia para extrair as 
       },
       "is_hidden": false,
       "slot": 1
-    },
-    {
-      "ability": {
-        "name": "chlorophyll",
-        "url": "https://pokeapi.co/api/v2/ability/34/"
-      },
-      "is_hidden": true,
-      "slot": 3
     }
   ]
 }
 ```
+
 **OBS:** `Para exibir as informações em listas, use laços de repetição. Outra sugestão é que vai ficar bem legal se você possibilitar que o usuário consiga ver todas espécies que desejar antes de realizar a adoção.`
+
 ## DIA 3
 
 Hoje você vai trabalhar a saída de dados através da construção de um menu interativo, com opções e mensagens divertidas para o usuário.
+
+- [x] Construir uma classe que será responsável pela exibição de todas as mensagens e leitura da resposta do usuário.
+
+- [x] Dar boas vindas ao usuário, ler o nome da pessoa e dados que você achar relevante.
+
+- [x] Exibir um menu que possibilite: “Adoção de mascotes”, “Ver mascotes adotados” e “Sair do Jogo”.
+
+O que é esperado do menu de adoção?
+
+- [x] Que o jogador possa escolher uma espécie e ver ou não suas características antes de adotá-lo.
+
+- [x] Que o jogador possa ver detalhes sobre as espécies que desejar antes de fazer a escolha da adoção.
+- [] Que caso o jogador goste das características do mascote, ele possa realizar a adoção do mesmo.
 
 ## DIA 4
 
